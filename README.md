@@ -41,10 +41,11 @@ O que mais lhe fez pensar na elaboração do seu site, para garantir que o usuá
 
 No que você mais pensou na elaboração do tema escolhido? Explique de acordo com : cores, fontes e design?
 
-- Pensei em manter um design minimalista, com cores neutras e fontes padrão.
+- Pensei em manter um design minimalista, com cores neutras e fontes padrão buscando deixar leve e acessivel para o usuario.
 
 De acordo com o propósito de seu site, oque mais irá atrair o cliente para a compra do seu produto (venda de seus conhecimentos)?
 
+-Bom vejo que destacar promoções diarias do produto, descontos semanais podem ser uma das maneiras para atrair uma grande massa de clientes.
 
 Avalie de 1 a 10 os seguintes tópicos referentes ao site elaborado : 
 
